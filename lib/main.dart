@@ -102,6 +102,7 @@ class _HomePageState extends State<HomePage> {
                         buttonTapped: () {
                           setState(() {
                             userQuestion = '';
+                            userAnswer = '';
                           });
                         },
                         buttonText: buttons[index],
