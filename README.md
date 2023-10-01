@@ -1,2 +1,2 @@
-# calculator
-Calculadora em flutter. 
+# Calculator
+created in flutter
